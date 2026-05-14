@@ -18,7 +18,7 @@ I love building intelligent systems that go beyond simple chatbots — from **RA
 - 🌱 Learning: **Advanced LLM fine-tuning & multi-agent orchestration**
 - 🤖 Passionate about: **Making AI actually useful, not just impressive**
 - 📍 Based in: **Hyderabad, India**
-- 🎓 Studying: **B.Tech @ MRCET**
+- 🎓 Studying: **B.Tech (Information Technology) @ MRCET**
 
 ---
 
@@ -115,7 +115,7 @@ I love building intelligent systems that go beyond simple chatbots — from **RA
 
 | Degree | Institution | Status |
 |--------|------------|--------|
-| 🎓 B.Tech (CSE / AI & ML) | Malla Reddy College of Engineering & Technology, Hyderabad | 🟢 Ongoing |
+| 🎓 B.Tech — Information Technology | Malla Reddy College of Engineering & Technology, Hyderabad | 🟡 Ongoing → Graduate |
 
 ---
 
@@ -123,8 +123,9 @@ I love building intelligent systems that go beyond simple chatbots — from **RA
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-karthik%40email.com-D85A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-reddy-242882327)
+[![Email](https://img.shields.io/badge/Email-karthikreddy26904%40gmail.com-D85A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikreddy26904@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-8341827650-1D9E75?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918341827650)
 [![GitHub](https://img.shields.io/badge/GitHub-@YOUR__USERNAME-2C2C2A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
@@ -140,3 +141,4 @@ I love building intelligent systems that go beyond simple chatbots — from **RA
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" />
 
 </div>
+
